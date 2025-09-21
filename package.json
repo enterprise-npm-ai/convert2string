@@ -1,0 +1,23 @@
+{
+  "name": "@is-(unknown)/convert2string",
+  "version": "1.0.0",
+  "description": "Converts 2 a string",
+  "keywords": [
+    "string"
+  ],
+  "homepage": "https://github.com/is-unknown/2string#readme",
+  "bugs": {
+    "url": "https://github.com/is-unknown/2string/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/is-unknown/2string.git"
+  },
+  "license": "MIT",
+  "author": "me",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
